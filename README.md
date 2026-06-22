@@ -236,9 +236,3 @@ The repository can be downloaded using Git:
 ```bash
 git clone https://github.com/GiovanniMerici/Salmonella_Virulence.git
 cd Salmonella_Virulence
-
-## Contact
-
-Giovanni Merici  
-University of Parma  
-giovanni.merici@unipr.it
