@@ -2,7 +2,7 @@
 
 This repository contains the code and input data used for the analyses described in the manuscript:
 
-**Virulence diversity in non-typhoidal Salmonella: a population genomics studyy**
+**Virulence diversity in non-typhoidal Salmonella: a population genomics study**
 
 The study investigates genomic differences among non-typhoidal *Salmonella enterica* serovars with different levels of representation in human infections. The workflow combines wgMLST-based gene presence/absence profiling, machine learning, functional annotation clustering, and spatial genomic analysis of discriminative genes.
 
